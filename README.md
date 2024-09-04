@@ -2,14 +2,13 @@
 
 Install [pixi](https://prefix.dev/) then type
 
-```
-pixi run start
-``
+
+    pixi run start
+
 
 to take the quizz or 
 
-```
-pixi run dev
-```
 
-to edit the quizz.
+    pixi run dev
+
+to edit it.
